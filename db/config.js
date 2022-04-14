@@ -14,5 +14,3 @@ mongoose
   .catch((err) => {
     console.log(err);
   });
-
-require("../models/models.js");
